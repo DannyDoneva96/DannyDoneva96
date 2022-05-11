@@ -36,9 +36,7 @@ Next step ---> Front-end Developer ❤️ I just want to make beautiful things.
  ## 🤝🏻 &nbsp;You can find me here:
  
 <p><a href="https://twitter.com/DanielaDoneva2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/daniela-doneva-9614561b2/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/danny.doneva/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
- <a href="https://mail.google.com/mail/u/?authuser=danielasinmas1@gmail.com" target="_blank"> 
-     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-   </a>
+ 
 
 </p>
  
