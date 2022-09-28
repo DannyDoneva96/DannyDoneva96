@@ -14,7 +14,7 @@ Next step ---> Front-end Developer ❤️ I just want to make beautiful things.
 - 📚 Daily learn **Front-end** and **Back-end** sides of a websites.
 - 🔭 I’m currently working on my personal project.
 - 💡 I like to explore new technologies and develop software solutions.
-- ⚡ Fun fact: I'm anime fan!
+- ⚡ Fun fact: I love puzzles!
 <br>
 <br>
 
