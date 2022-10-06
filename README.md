@@ -6,7 +6,7 @@ I'm currently part of the JS Web Development training program at Software Univer
 Next step ---> Front-end Developer ❤️ I just want to make beautiful things.
 
 # Check my website 
-<p> <a href="https:ddwebsite-1e795.web.app/" target="_blank"> HERE </a></p> 
+<p> <a href="https://ddwebsite-1e795.web.app/" target="_blank"> HERE </a></p> 
 
 
 ## 👨🏻‍💻 &nbsp;About Me
