@@ -4,7 +4,7 @@
 # Hi, I'm Daniela 👋
 I am fresh graduated JS Web Developer. Motivated and ambitious, excited to learn more. 
 A disciplined person with the ability to learn new knowledge and teamwork skills. Striving for precision and good results, communication and responsibility. Enviable
- knowledge of JavaScript, HTML5 and CSS3. A bit of experience with React, Angular and NODE.JS. Competence in using graphic editors - , Canva, Figma and more.
+ knowledge of JavaScript, HTML5 and CSS3. A bit of experience with React,Redux, Angular and NODE.JS. Competence in using graphic editors - , Canva, Figma and more.
 
 # Check my website 
 <p> <a href="https://ddwebsite-1e795.web.app/" target="_blank"> HERE </a></p> 
