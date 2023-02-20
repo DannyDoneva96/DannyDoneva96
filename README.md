@@ -2,15 +2,16 @@
 <!-- <img src="https://github.com/DannyDoneva96/DannyDoneva96/blob/main/IMG_20220501_115920.jpg">
  -->
 # Hi, I'm Daniela 👋
-I'm currently part of the JS Web Development training program at Software University.
-Next step ---> Front-end Developer ❤️ I just want to make beautiful things.
+I am fresh graduated JS Web Developer. Motivated and ambitious, excited to learn more. 
+A disciplined person with the ability to learn new knowledge and teamwork skills. Striving for precision and good results, communication and responsibility. Enviable
+ knowledge of JavaScript, HTML5 and CSS3. A bit of experience with React, Angular and NODE.JS. Competence in using graphic editors - , Canva, Figma and more.
 
 # Check my website 
 <p> <a href="https://ddwebsite-1e795.web.app/" target="_blank"> HERE </a></p> 
 
 
 ## 👨🏻‍💻 &nbsp;About Me
-- 🌱 I’m currently studying Angular at Software University
+- 🌱 I’m currently looking for my first job opportunity
 - 📚 Daily learn **Front-end** and **Back-end** sides of a websites.
 - 🔭 I’m currently working on my personal project.
 - 💡 I like to explore new technologies and develop software solutions.
