@@ -2,7 +2,7 @@
 <!-- <img src="https://github.com/DannyDoneva96/DannyDoneva96/blob/main/IMG_20220501_115920.jpg">
  -->
 # Hi, I'm Daniela 👋
-As a recent graduate in JavaScript Web Development, I am highly motivated and ambitious, always eager to learn and grow. With a disciplined approach to work and a strong ability to collaborate effectively with others, I am committed to achieving precise, high-quality results in everything I do.
+Highly motivated and ambitious, always eager to learn and grow. With a disciplined approach to work and a strong ability to collaborate effectively with others, I am committed to achieving precise, high-quality results in everything I do.
 
 My expertise in JavaScript, HTML5, and CSS3 is well-honed, and I have some experience working with popular frameworks such as React, Redux, Angular, and NODE.JS. Additionally, I am highly competent in using graphic editors like Canva and Figma, which allows me to design visually appealing and engaging user interfaces.
 
@@ -16,7 +16,7 @@ Overall, I am a skilled and enthusiastic web developer who is committed to deliv
 - 📚 Daily learn **Front-end** and **Back-end** sides of a websites.
 - 🔭 I’m currently working on my personal project.
 - 💡 I like to explore new technologies and develop software solutions.
-- ⚡ Fun fact: I love puzzles!
+- ⚡ Fun fact: I have a Korean Addiction!
 <br>
 <br>
 
