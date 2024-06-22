@@ -16,7 +16,7 @@ Overall, I am a skilled and enthusiastic web developer who is committed to deliv
 - 📚 Daily learn **Front-end** and **Back-end** sides of a websites.
 - 🔭 I’m currently working on my personal project.
 - 💡 I like to explore new technologies and develop software solutions.
-- ⚡ Fun fact: I have a Korean Addiction!
+- ⚡ Fun fact: 나는 K-드라마 중독이 있어요!
 <br>
 <br>
 
